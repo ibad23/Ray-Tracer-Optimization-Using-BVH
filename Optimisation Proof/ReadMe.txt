@@ -1,0 +1,1 @@
+The screenshots from the program run shows us that the BVH implemented ray tracer was able to generate the images within a minute. However , the ray tracer with brute force (without optimisation) will take hours to generate a single image. 

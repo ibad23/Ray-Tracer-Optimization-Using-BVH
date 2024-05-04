@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sense\\OneDrive\\Desktop\\Manan\\RayTracer_New\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDE2D49-EEB0-43EC-81EB-211349D93012}|RayTracer_New\\RayTracer_New.vcxproj|C:\\Users\\sense\\OneDrive\\Desktop\\Manan\\RayTracer_New\\RayTracer_New\\RayTracer_New.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FDE2D49-EEB0-43EC-81EB-211349D93012}|RayTracer_New\\RayTracer_New.vcxproj|solutionrelative:RayTracer_New\\RayTracer_New.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDE2D49-EEB0-43EC-81EB-211349D93012}|RayTracer_New\\RayTracer_New.vcxproj|C:\\Users\\sense\\OneDrive\\Desktop\\Manan\\RayTracer_New\\RayTracer_New\\Headers\\BoundingVolumHierarchy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FDE2D49-EEB0-43EC-81EB-211349D93012}|RayTracer_New\\RayTracer_New.vcxproj|solutionrelative:RayTracer_New\\Headers\\BoundingVolumHierarchy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDE2D49-EEB0-43EC-81EB-211349D93012}|RayTracer_New\\RayTracer_New.vcxproj|C:\\Users\\sense\\OneDrive\\Desktop\\Manan\\RayTracer_New\\RayTracer_New\\Headers\\vec3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FDE2D49-EEB0-43EC-81EB-211349D93012}|RayTracer_New\\RayTracer_New.vcxproj|solutionrelative:RayTracer_New\\Headers\\vec3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDE2D49-EEB0-43EC-81EB-211349D93012}|RayTracer_New\\RayTracer_New.vcxproj|C:\\Users\\sense\\OneDrive\\Desktop\\Manan\\RayTracer_New\\RayTracer_New\\Headers\\aabb.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FDE2D49-EEB0-43EC-81EB-211349D93012}|RayTracer_New\\RayTracer_New.vcxproj|solutionrelative:RayTracer_New\\Headers\\aabb.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDE2D49-EEB0-43EC-81EB-211349D93012}|RayTracer_New\\RayTracer_New.vcxproj|C:\\Users\\sense\\OneDrive\\Desktop\\Manan\\RayTracer_New\\RayTracer_New\\Headers\\hittable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FDE2D49-EEB0-43EC-81EB-211349D93012}|RayTracer_New\\RayTracer_New.vcxproj|solutionrelative:RayTracer_New\\Headers\\hittable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDE2D49-EEB0-43EC-81EB-211349D93012}|RayTracer_New\\RayTracer_New.vcxproj|C:\\Users\\sense\\OneDrive\\Desktop\\Manan\\RayTracer_New\\RayTracer_New\\Headers\\hittable_list.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FDE2D49-EEB0-43EC-81EB-211349D93012}|RayTracer_New\\RayTracer_New.vcxproj|solutionrelative:RayTracer_New\\Headers\\hittable_list.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDE2D49-EEB0-43EC-81EB-211349D93012}|RayTracer_New\\RayTracer_New.vcxproj|C:\\Users\\sense\\OneDrive\\Desktop\\Manan\\RayTracer_New\\RayTracer_New\\Headers\\material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FDE2D49-EEB0-43EC-81EB-211349D93012}|RayTracer_New\\RayTracer_New.vcxproj|solutionrelative:RayTracer_New\\Headers\\material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDE2D49-EEB0-43EC-81EB-211349D93012}|RayTracer_New\\RayTracer_New.vcxproj|C:\\Users\\sense\\OneDrive\\Desktop\\Manan\\RayTracer_New\\RayTracer_New\\Headers\\rtweekend.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FDE2D49-EEB0-43EC-81EB-211349D93012}|RayTracer_New\\RayTracer_New.vcxproj|solutionrelative:RayTracer_New\\Headers\\rtweekend.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\xmemory||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "hittable.h",
+              "DocumentMoniker": "C:\\Users\\sense\\OneDrive\\Desktop\\Manan\\RayTracer_New\\RayTracer_New\\Headers\\hittable.h",
+              "RelativeDocumentMoniker": "RayTracer_New\\Headers\\hittable.h",
+              "ToolTip": "C:\\Users\\sense\\OneDrive\\Desktop\\Manan\\RayTracer_New\\RayTracer_New\\Headers\\hittable.h",
+              "RelativeToolTip": "RayTracer_New\\Headers\\hittable.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-26T05:48:49.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "hittable_list.h",
+              "DocumentMoniker": "C:\\Users\\sense\\OneDrive\\Desktop\\Manan\\RayTracer_New\\RayTracer_New\\Headers\\hittable_list.h",
+              "RelativeDocumentMoniker": "RayTracer_New\\Headers\\hittable_list.h",
+              "ToolTip": "C:\\Users\\sense\\OneDrive\\Desktop\\Manan\\RayTracer_New\\RayTracer_New\\Headers\\hittable_list.h",
+              "RelativeToolTip": "RayTracer_New\\Headers\\hittable_list.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-26T05:47:07.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BoundingVolumHierarchy.h",
+              "DocumentMoniker": "C:\\Users\\sense\\OneDrive\\Desktop\\Manan\\RayTracer_New\\RayTracer_New\\Headers\\BoundingVolumHierarchy.h",
+              "RelativeDocumentMoniker": "RayTracer_New\\Headers\\BoundingVolumHierarchy.h",
+              "ToolTip": "C:\\Users\\sense\\OneDrive\\Desktop\\Manan\\RayTracer_New\\RayTracer_New\\Headers\\BoundingVolumHierarchy.h",
+              "RelativeToolTip": "RayTracer_New\\Headers\\BoundingVolumHierarchy.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-25T23:57:09.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "aabb.h",
+              "DocumentMoniker": "C:\\Users\\sense\\OneDrive\\Desktop\\Manan\\RayTracer_New\\RayTracer_New\\Headers\\aabb.h",
+              "RelativeDocumentMoniker": "RayTracer_New\\Headers\\aabb.h",
+              "ToolTip": "C:\\Users\\sense\\OneDrive\\Desktop\\Manan\\RayTracer_New\\RayTracer_New\\Headers\\aabb.h",
+              "RelativeToolTip": "RayTracer_New\\Headers\\aabb.h",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-25T23:57:09.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vec3.h",
+              "DocumentMoniker": "C:\\Users\\sense\\OneDrive\\Desktop\\Manan\\RayTracer_New\\RayTracer_New\\Headers\\vec3.h",
+              "RelativeDocumentMoniker": "RayTracer_New\\Headers\\vec3.h",
+              "ToolTip": "C:\\Users\\sense\\OneDrive\\Desktop\\Manan\\RayTracer_New\\RayTracer_New\\Headers\\vec3.h",
+              "RelativeToolTip": "RayTracer_New\\Headers\\vec3.h",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-25T23:56:39.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RayTracer_New.cpp",
+              "DocumentMoniker": "C:\\Users\\sense\\OneDrive\\Desktop\\Manan\\RayTracer_New\\RayTracer_New\\RayTracer_New.cpp",
+              "RelativeDocumentMoniker": "RayTracer_New\\RayTracer_New.cpp",
+              "ToolTip": "C:\\Users\\sense\\OneDrive\\Desktop\\Manan\\RayTracer_New\\RayTracer_New\\RayTracer_New.cpp",
+              "RelativeToolTip": "RayTracer_New\\RayTracer_New.cpp",
+              "ViewState": "AQIAAD4BAAAAAAAAAADwv0UBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T23:48:29.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "xmemory",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\xmemory",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\xmemory",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\xmemory",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\xmemory",
+              "ViewState": "AQIAACAIAAAAAAAAAAAswC8IAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-26T01:36:51.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "material.h",
+              "DocumentMoniker": "C:\\Users\\sense\\OneDrive\\Desktop\\Manan\\RayTracer_New\\RayTracer_New\\Headers\\material.h",
+              "RelativeDocumentMoniker": "RayTracer_New\\Headers\\material.h",
+              "ToolTip": "C:\\Users\\sense\\OneDrive\\Desktop\\Manan\\RayTracer_New\\RayTracer_New\\Headers\\material.h",
+              "RelativeToolTip": "RayTracer_New\\Headers\\material.h",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-26T03:12:39.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "rtweekend.h",
+              "DocumentMoniker": "C:\\Users\\sense\\OneDrive\\Desktop\\Manan\\RayTracer_New\\RayTracer_New\\Headers\\rtweekend.h",
+              "RelativeDocumentMoniker": "RayTracer_New\\Headers\\rtweekend.h",
+              "ToolTip": "C:\\Users\\sense\\OneDrive\\Desktop\\Manan\\RayTracer_New\\RayTracer_New\\Headers\\rtweekend.h",
+              "RelativeToolTip": "RayTracer_New\\Headers\\rtweekend.h",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-25T23:55:31.339Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
